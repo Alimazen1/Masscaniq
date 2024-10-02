@@ -6,8 +6,8 @@ in previous versions, and describes policies how vulnerabilities are handled.
 
 ## Security contact
 
-robert_david_graham@yahoo.com
-@ErrataRob on twitter
+
+@_alimazen_ on twitter
 
 
 ## Known vulnerabilities and advisories
