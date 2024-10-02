@@ -1,4 +1,4 @@
-# If Windows, then assume the compiler is `gcc` for the
+ # If Windows, then assume the compiler is `gcc` for the
 # MinGW environment. I can't figure out how to tell if it's
 # actually MingGW. FIXME TODO
 ifeq ($(OS),Windows_NT)
