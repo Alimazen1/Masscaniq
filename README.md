@@ -1,6 +1,6 @@
 [![unittests](https://github.com/Alimazen1/masscan/actions/workflows/unittests.yml/badge.svg?branch=master)](https://github.com/robertdavidgraham/masscan/actions/workflows/unittests.yml/?branch=master)
 
-# MASSCAN: Mass IP port scanner
+# MASSCAN: Mass IP port scanner by ali mazen
 
 This is an Internet-scale port scanner. It can scan the entire Internet
 in under 5 minutes, transmitting 10 million packets per second,
