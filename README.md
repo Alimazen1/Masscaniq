@@ -598,7 +598,7 @@ at which they perform this calculation, making `masscan` much faster.
 
 This tool developed by Ali Mazen:
 
-twitter: @_alimazen_
+twitter: _alimazen_
 
 # License
 
