@@ -596,13 +596,14 @@ at which they perform this calculation, making `masscan` much faster.
 
 # Authors
 
-This tool created by Robert Graham:
-email: robert_david_graham@yahoo.com
-twitter: @ErrataRob
+This tool developed by Ali Mazen:
+
+twitter: @_alimazen_
 
 # License
 
-Copyright (c) 2013 Robert David Graham
+Copyright (c) 2024 Ali Mazen
+
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
