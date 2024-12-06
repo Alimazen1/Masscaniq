@@ -33,7 +33,7 @@ really have any dependencies other than a C compiler (such as `gcc`
 or `clang`).
 
 	sudo apt-get --assume-yes install git make gcc
-	git clone https://github.com/robertdavidgraham/masscan
+	https://github.com/Alimazen1/Masscan.git
 	cd masscan
 	make
 
